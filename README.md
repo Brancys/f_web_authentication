@@ -1,6 +1,6 @@
 # f_web_authentication
 
-A Flutter project to test authentication services based on a sever running the following code:
+A Flutter project (by [augustosalazar](http://github.com/augustosalazar/)) to test authentication services based on a sever running the following code:
 
 Authentication server:   
 
